@@ -42,4 +42,4 @@ Figtree: a Java program to visualize phylogenetic trees (http://tree.bio.ed.ac.u
 auspice.us: allows interactive exploration of phylogenomic datasets by simply dragging & dropping them onto this page.
 
 Clockor2: is a client-side web application for conducting root-to-tip regression
-<img width="468" height="630" alt="image" src="https://github.com/user-attachments/assets/de45b023-9b2b-47d3-b496-11e26ad974cd" />
+
